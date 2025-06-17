@@ -1,4 +1,3 @@
-
 CREATE TABLE san_pham (
     id INT PRIMARY KEY AUTO_INCREMENT,
     ma_san_pham VARCHAR(50) UNIQUE NOT NULL,
