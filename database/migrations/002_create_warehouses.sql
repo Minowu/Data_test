@@ -1,4 +1,3 @@
-
 CREATE TABLE khu_vuc (
     id INT PRIMARY KEY AUTO_INCREMENT,
     ma_khu_vuc VARCHAR(10) UNIQUE NOT NULL, -- A, B, C, D
